@@ -4,9 +4,10 @@
       <mapping pattern="asdf" type="JSON" />
       <mapping pattern="CashboxesArchController" type="JavaScript" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="torrc" type="PLAIN_TEXT" />
       <mapping pattern="{" type="PLAIN_TEXT" />
+      <mapping pattern="torrc" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="a3382cf4ee36b9f4f14c60f86e9fadddd8a2c7de" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="coreftp" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
