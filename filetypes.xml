@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="DispatchesViewController" type="AUTO_DETECTED" />
       <mapping ext="log" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="Batch" />
+      <removed_mapping ext="cmd" approved="true" type="Batch" />
     </extensionMap>
   </component>
 </application>
