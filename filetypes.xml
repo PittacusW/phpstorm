@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="DispatchesViewController" type="AUTO_DETECTED" />
+      <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="0a0a0b8590eee22d4ecbe9f07b044bfbcbee181c" type="AUTO_DETECTED" />
       <mapping pattern="0a0a00f9a778824c2f95f5a537c37894631b0d15" type="JSON" />
       <mapping pattern="0a0a01f56f484727570d3fb9cde0549638685352" type="JSON" />
