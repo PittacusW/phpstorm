@@ -5,6 +5,7 @@
       <mapping pattern="ApiController" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="0a0a0b8590eee22d4ecbe9f07b044bfbcbee181c" type="AUTO_DETECTED" />
+      <mapping pattern="MachineRequest" type="AUTO_DETECTED" />
       <mapping pattern="0a0a00f9a778824c2f95f5a537c37894631b0d15" type="JSON" />
       <mapping pattern="0a0a01f56f484727570d3fb9cde0549638685352" type="JSON" />
       <mapping pattern="0a0a2e92c966365dd4025f7bbb154142252d151f" type="JSON" />
