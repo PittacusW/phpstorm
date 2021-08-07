@@ -10,6 +10,7 @@
       <mapping pattern="0a0a01f56f484727570d3fb9cde0549638685352" type="JSON" />
       <mapping pattern="0a0a2e92c966365dd4025f7bbb154142252d151f" type="JSON" />
       <mapping pattern="0a0a0a6ce64b3d4fc0c240161b4ff55a0da3ad36" type="JSON" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
