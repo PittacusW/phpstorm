@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Iseed" type="AUTO_DETECTED" />
       <mapping pattern="0a0a0b8590eee22d4ecbe9f07b044bfbcbee181c" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="DispatchesViewController" type="AUTO_DETECTED" />
@@ -11,6 +12,7 @@
       <mapping pattern="0a0a01f56f484727570d3fb9cde0549638685352" type="JSON" />
       <mapping pattern="0a0a0a6ce64b3d4fc0c240161b4ff55a0da3ad36" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
