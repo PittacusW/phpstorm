@@ -2,9 +2,11 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file://$USER_HOME$/OneDrive/Escritorio/banigual_db.sql" />
-        <option value="file://$USER_HOME$/OneDrive/Escritorio/banigual_pruebas.sql" />
+        <option value="file://$USER_HOME$/OneDrive/Escritorio/Archivo_Intercambio1226468.xml" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="10" y="20" width="1346" height="688" />
     </option>
   </component>
 </application>
