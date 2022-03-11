@@ -11,6 +11,7 @@
       <mapping pattern="0a0a00f9a778824c2f95f5a537c37894631b0d15" type="JSON" />
       <mapping pattern="0a0a01f56f484727570d3fb9cde0549638685352" type="JSON" />
       <mapping pattern="0a0a0a6ce64b3d4fc0c240161b4ff55a0da3ad36" type="JSON" />
+      <mapping pattern=".gitignofre" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
