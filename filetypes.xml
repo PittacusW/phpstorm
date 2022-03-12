@@ -4,16 +4,31 @@
       <mapping pattern="Iseed" type="AUTO_DETECTED" />
       <mapping pattern="0a0a0b8590eee22d4ecbe9f07b044bfbcbee181c" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
-      <mapping pattern="DispatchesViewController" type="AUTO_DETECTED" />
       <mapping pattern="ApiController" type="AUTO_DETECTED" />
       <mapping pattern="MachineRequest" type="AUTO_DETECTED" />
+      <mapping pattern="DispatchesViewController" type="AUTO_DETECTED" />
+      <mapping pattern="jest.config" type="JSON" />
+      <mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern="0a0a01f56f484727570d3fb9cde0549638685352" type="JSON" />
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern="bowerrc" type="JSON" />
+      <mapping pattern="0a0a0a6ce64b3d4fc0c240161b4ff55a0da3ad36" type="JSON" />
       <mapping pattern="0a0a2e92c966365dd4025f7bbb154142252d151f" type="JSON" />
       <mapping pattern="0a0a00f9a778824c2f95f5a537c37894631b0d15" type="JSON" />
-      <mapping pattern="0a0a01f56f484727570d3fb9cde0549638685352" type="JSON" />
-      <mapping pattern="0a0a0a6ce64b3d4fc0c240161b4ff55a0da3ad36" type="JSON" />
-      <mapping pattern=".gitignofre" type="PLAIN_TEXT" />
+      <mapping ext="jsb3" type="JSON" />
+      <mapping ext="jsb2" type="JSON" />
+      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
+      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignofre" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".node-version" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
