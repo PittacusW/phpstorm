@@ -7,6 +7,7 @@
       <mapping pattern="ApiController" type="AUTO_DETECTED" />
       <mapping pattern="MachineRequest" type="AUTO_DETECTED" />
       <mapping pattern="DispatchesViewController" type="AUTO_DETECTED" />
+      <mapping pattern="HandlePushWebhook" type="AUTO_DETECTED" />
       <mapping pattern="0a0a01f56f484727570d3fb9cde0549638685352" type="JSON" />
       <mapping pattern="0a0a0a6ce64b3d4fc0c240161b4ff55a0da3ad36" type="JSON" />
       <mapping pattern="0a0a2e92c966365dd4025f7bbb154142252d151f" type="JSON" />
