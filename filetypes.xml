@@ -4,6 +4,7 @@
       <mapping pattern="Iseed" type="AUTO_DETECTED" />
       <mapping pattern="0a0a0b8590eee22d4ecbe9f07b044bfbcbee181c" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
+      <mapping pattern="asdf" type="AUTO_DETECTED" />
       <mapping pattern="ApiController" type="AUTO_DETECTED" />
       <mapping pattern="MachineRequest" type="AUTO_DETECTED" />
       <mapping pattern="DispatchesViewController" type="AUTO_DETECTED" />
