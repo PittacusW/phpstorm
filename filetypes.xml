@@ -5,6 +5,7 @@
       <mapping pattern="0a0a0b8590eee22d4ecbe9f07b044bfbcbee181c" type="AUTO_DETECTED" />
       <mapping pattern="Procfile" type="AUTO_DETECTED" />
       <mapping pattern="asdf" type="AUTO_DETECTED" />
+      <mapping pattern="id" type="AUTO_DETECTED" />
       <mapping pattern="ApiController" type="AUTO_DETECTED" />
       <mapping pattern="MachineRequest" type="AUTO_DETECTED" />
       <mapping pattern="DispatchesViewController" type="AUTO_DETECTED" />
@@ -36,7 +37,6 @@
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
