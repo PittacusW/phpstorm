@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="19">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Iseed" type="AUTO_DETECTED" />
       <mapping pattern="0a0a0b8590eee22d4ecbe9f07b044bfbcbee181c" type="AUTO_DETECTED" />
@@ -16,7 +16,6 @@
       <mapping pattern="0a0a0a6ce64b3d4fc0c240161b4ff55a0da3ad36" type="JSON" />
       <mapping pattern="0a0a2e92c966365dd4025f7bbb154142252d151f" type="JSON" />
       <mapping pattern="0a0a00f9a778824c2f95f5a537c37894631b0d15" type="JSON" />
-      <removed_mapping ext="log" type="Log" />
       <mapping pattern="LGIMLocalSave_144565423" type="PLAIN_TEXT" />
       <mapping pattern="AlertSave" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
@@ -31,14 +30,14 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="AllianceShedule" type="PLAIN_TEXT" />
       <mapping pattern="EventTemplate_Harvest_Visit" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="pfx" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="2506117391747928" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="js " type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
