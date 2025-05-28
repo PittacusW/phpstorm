@@ -31,6 +31,7 @@
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="SPACE_BEFORE_COLON_IN_RETURN_TYPE" value="true" />
     <option name="RETURN_TYPE_ON_NEW_LINE" value="true" />
