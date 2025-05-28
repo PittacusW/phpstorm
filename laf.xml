@@ -3,6 +3,7 @@
     <laf themeId="Darcula" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="Luiz" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="Luiz" />
     </lafs-to-previous-schemes>
   </component>
 </application>
