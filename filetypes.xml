@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="19">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Iseed" type="AUTO_DETECTED" />
       <mapping pattern="0a0a0b8590eee22d4ecbe9f07b044bfbcbee181c" type="AUTO_DETECTED" />
@@ -30,20 +30,16 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="AllianceShedule" type="PLAIN_TEXT" />
       <mapping pattern="EventTemplate_Harvest_Visit" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="2506117391747928" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="js " type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="Batch" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
-      <removed_mapping ext="cmd" approved="true" type="Batch" />
       <removed_mapping ext="log" approved="true" type="Log" />
-      <removed_mapping ext="log" approved="true" type="Log" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
