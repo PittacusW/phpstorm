@@ -4,4 +4,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.php;*.js;*.css;*.scss;*.json;*.txt" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
 </application>
