@@ -38,12 +38,8 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="js " type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
-      <removed_mapping ext="bat" approved="true" type="Batch" />
-      <removed_mapping ext="cmd" approved="true" type="Batch" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
       <removed_mapping ext="log" approved="true" type="Log" />
-      <removed_mapping ext="log" approved="true" type="Log" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
