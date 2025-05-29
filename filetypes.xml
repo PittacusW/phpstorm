@@ -1,46 +1,7 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
-      <mapping pattern="Iseed" type="AUTO_DETECTED" />
-      <mapping pattern="0a0a0b8590eee22d4ecbe9f07b044bfbcbee181c" type="AUTO_DETECTED" />
-      <mapping pattern="Procfile" type="AUTO_DETECTED" />
-      <mapping pattern="asdf" type="AUTO_DETECTED" />
-      <mapping pattern="id" type="AUTO_DETECTED" />
-      <mapping pattern="ApiController" type="AUTO_DETECTED" />
-      <mapping pattern="MachineRequest" type="AUTO_DETECTED" />
-      <mapping pattern="DispatchesViewController" type="AUTO_DETECTED" />
-      <mapping pattern="1962213_ALLIANCE_IM_INVITE" type="AUTO_DETECTED" />
-      <mapping pattern="ExportBlacklist" type="AUTO_DETECTED" />
-      <mapping pattern="HandlePushWebhook" type="AUTO_DETECTED" />
-      <mapping pattern="0a0a01f56f484727570d3fb9cde0549638685352" type="JSON" />
-      <mapping pattern="0a0a0a6ce64b3d4fc0c240161b4ff55a0da3ad36" type="JSON" />
-      <mapping pattern="0a0a2e92c966365dd4025f7bbb154142252d151f" type="JSON" />
-      <mapping pattern="0a0a00f9a778824c2f95f5a537c37894631b0d15" type="JSON" />
-      <mapping pattern="LGIMLocalSave_144565423" type="PLAIN_TEXT" />
-      <mapping pattern="AlertSave" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="D_Info_35135806" type="PLAIN_TEXT" />
-      <mapping pattern="AsyncAllianceBattleLocalSave_142543772" type="PLAIN_TEXT" />
-      <mapping pattern="Mark_176264706" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignofre" type="PLAIN_TEXT" />
-      <mapping pattern="GameSetting_player_176264706" type="PLAIN_TEXT" />
-      <mapping pattern="IAPLocalSave_176264706" type="PLAIN_TEXT" />
-      <mapping pattern="AnnounceLocalSave_142543772" type="PLAIN_TEXT" />
-      <mapping pattern="hero_update_star_save_176264706" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="AllianceShedule" type="PLAIN_TEXT" />
-      <mapping pattern="EventTemplate_Harvest_Visit" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="pfx" type="PLAIN_TEXT" />
-      <mapping ext="2506117391747928" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="js " type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="Batch" />
-      <removed_mapping ext="cmd" approved="true" type="Batch" />
-      <removed_mapping ext="log" approved="true" type="Log" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
