@@ -1,9 +1,10 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="Log" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
